@@ -1,0 +1,2 @@
+Hello every one..welcome Apssdc online sessions!
+Hello every one..now we are using append mode to the file
